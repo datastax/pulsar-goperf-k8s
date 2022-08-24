@@ -1,4 +1,4 @@
-module github.com/zzzming/pulsar-goperf-k8s
+module github.com/datastax/pulsar-goperf-k8s
 
 go 1.17
 
